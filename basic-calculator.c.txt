@@ -1,0 +1,37 @@
+#include<stdio.h>
+void main()
+{
+ int a,b,ans;
+ char ar;
+ printf("Enter first number:");
+ scanf("%d",&a);
+ printf("Enter second number:");
+ scanf("%d",&b);
+
+ printf("Enter a operator:");
+ scanf(" %c",&ar);
+
+ switch(ar)
+ {
+ case '+' :
+ ans=a+b;
+ printf("Addition of %d and %d is %d",a,b,ans);
+ break;
+ case '-' :
+ ans=a-b;
+ printf("Subtraction of %d and %d is %d",a,b,ans);
+ break;
+ case '*' :
+ ans=a*b;
+ printf("Multiplication of %d and %d is %d",a,b,ans);
+ break;
+ case '/' :
+ if (b!=0)
+ printf("Divison of %d and %d is %d",a,b,ans=a/b);
+ else
+ printf("Error! the number cannot be divided by 0");
+ break;
+ default:
+ printf("INVALID operator used other than (+,-,/,*)");
+}
+}
