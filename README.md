@@ -18,5 +18,5 @@ User Interaction: It prompts the user for input through console messages.
 Control Flow: The switch statement evaluates the operator and directs the flow to the appropriate case where the calculation occurs.
 Result Display: After performing the calculation, the result is printed, and the program may prompt the user to perform another calculation or exit.
 
-HOW TO COMPILE ND RUN THE PROGRAM
-
+HOW TO COMPILE ND RUN THE PPROGRAM
+Instal C Compiler and save the code using filename.c (any filename can be given; Eg: arthmetic.c). Save your code by pressing CRTL X and Y. Compile it by typing gcc filename.c (Eg: gcc arthmetic.c)
