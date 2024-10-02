@@ -19,4 +19,4 @@ Control Flow: The switch statement evaluates the operator and directs the flow t
 Result Display: After performing the calculation, the result is printed, and the program may prompt the user to perform another calculation or exit.
 
 HOW TO COMPILE ND RUN THE PPROGRAM
-Instal C Compiler and save the code using filename.c (any filename can be given; Eg: arthmetic.c). Save your code by pressing CRTL X and Y. Compile it by typing gcc filename.c (Eg: gcc arthmetic.c)
+Instal C Compiler. Open the terminal, by typing 'nano filename.c' you are able to type in the code. Clone the code and save the code using filename.c (any filename can be given; Eg: arthmetic.c). Save your code by pressing CRTL X and Y. Compile it by typing gcc filename.c (Eg: gcc arthmetic.c)
