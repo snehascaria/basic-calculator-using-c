@@ -18,5 +18,5 @@ User Interaction: It prompts the user for input through console messages.
 Control Flow: The switch statement evaluates the operator and directs the flow to the appropriate case where the calculation occurs.
 Result Display: After performing the calculation, the result is printed, and the program may prompt the user to perform another calculation or exit.
 
-WORKING
-Here, we use switch statement to do the program. 
+HOW TO COMPILE ND RUN THE PROGRAM
+
