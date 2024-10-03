@@ -21,7 +21,7 @@ User Interaction: It prompts the user for input through console messages.
 Control Flow: The switch statement evaluates the operator and directs the flow to the appropriate case where the calculation occurs.
 Result Display: After performing the calculation, the result is printed, and the program may prompt the user to perform another calculation or exit.
 
-HOW TO COMPILE AND RUN THE PPROGRAM
+HOW TO COMPILE AND RUN THE PROGRAM
 
 Instal C Compiler. Open the terminal. Navigate to your directory in Ubuntu, by typing 'nano filename.c' you are able to type in the code (any filename can be given; Eg: arthmetic.c). Clone the code and Save the code by pressing CRTL X and Y. Compile it by using gcc. 
 
