@@ -33,3 +33,6 @@ Commands:
 Compiling commands:
 • gcc filename.c 
 • ./a.out
+
+git clone
+https://github.com/snehascaria/basic-calculator-using-c.git
