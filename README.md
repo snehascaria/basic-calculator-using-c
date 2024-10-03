@@ -23,7 +23,7 @@ Result Display: After performing the calculation, the result is printed, and the
 
 HOW TO COMPILE AND RUN THE PPROGRAM
 
-Instal C Compiler. Open the terminal. Navigate to your directory in Unbuntu, by typing 'nano filename.c' you are able to type in the code (any filename can be given; Eg: arthmetic.c). Clone the code and Save the code by pressing CRTL X and Y. Compile it by using gcc. 
+Instal C Compiler. Open the terminal. Navigate to your directory in Ubuntu, by typing 'nano filename.c' you are able to type in the code (any filename can be given; Eg: arthmetic.c). Clone the code and Save the code by pressing CRTL X and Y. Compile it by using gcc. 
 
 Commands:
 • mkdir directoryname (any directory name) 
